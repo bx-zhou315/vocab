@@ -1,0 +1,16 @@
+{
+  "name": "生词筛查 · Vocab Screening",
+  "short_name": "生词筛查",
+  "description": "英式词汇筛查和复习，离线可用，手机电脑同步。",
+  "lang": "zh-Hans",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f3f7",
+  "theme_color": "#2445a3",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
